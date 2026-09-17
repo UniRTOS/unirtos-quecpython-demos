@@ -1,0 +1,18 @@
+{
+  "unirtos_root": "",
+  "build": {
+    "module": "EG800ZCN_LA"
+  },
+  "sdk": {
+    "version": "1.0.5"
+  },
+  "libraries": {
+    "list": [
+      {
+        "name": "unirtos-quecpython",
+        "version": "1.1.0"
+      }
+    ]
+  }
+}
+

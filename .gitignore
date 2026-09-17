@@ -1,0 +1,5 @@
+/build/
+/qos_build/
+/libraries/
+*.log
+
